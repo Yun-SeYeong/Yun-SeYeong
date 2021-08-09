@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![InfluxDB](https://img.shields.io/static/v1?style=for-the-badge&message=InfluxDB&color=22ADF6&logo=InfluxDB&logoColor=FFFFFF&label=)
 ![Prometheus](https://img.shields.io/static/v1?style=for-the-badge&message=Prometheus&color=E6522C&logo=Prometheus&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
