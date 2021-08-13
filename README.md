@@ -1,7 +1,4 @@
-# jsp 설정
-spring.mvc.view.prefix=/WEB-INF/views/
-spring.mvc.view.suffix=.jsp
-spring.mvc.static-path-pattern=/resources/**
+
 ### Hi there 👋
 
 <!--
