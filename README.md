@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbstpdud09)](https://solved.ac/dbstpdud09)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbstpdud09)](https://solved.ac/dbstpdud09)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yun-SeYeong&show_icons=true&theme=radical)
 
